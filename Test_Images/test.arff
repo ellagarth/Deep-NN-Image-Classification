@@ -1,0 +1,22 @@
+@relation test
+@attribute filename string
+@attribute class {0,1,2,3}
+@data
+circle13.bmp,0
+circle07.bmp,0
+circle21.bmp,0
+circle22.bmp,0
+square04.bmp,1
+square11.bmp,1
+square21.bmp,1
+square22.bmp,1
+tri11.bmp,2
+tri18.bmp,2
+tri21.bmp,2
+tri22.bmp,2
+cross07.bmp,3
+cross20.bmp,3
+cross21.bmp,3
+cross22.bmp,3
+
+
